@@ -1,0 +1,196 @@
+
+@import url(font-awesome.min.css);
+@font-face {
+    font-family: "Raleway";
+    src: url("../fonts/Raleway/Raleway-VariableFont_wght.ttf");
+}
+* {
+  margin: 0;
+  text-align: center;
+}
+
+body {
+  font-family: "Raleway", Helvetica, sans-serif;
+  color: #444;
+}
+
+/* ------------------------------------------ */
+
+.container {
+    background-color: #f5f5f5;
+    border-bottom: 1px solid rgba(144, 144, 144, 0.25);
+    border-top: 1px solid rgba(144, 144, 144, 0.25);
+    width: 88%;
+    height: 800px;
+    float: right; 
+    margin: 50px 80px;  
+}
+
+.first {
+    width: 300px;
+    height: 270px;
+    background-color: #ffffff;
+    float: right;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    border: 1px solid #858585;
+}
+
+.second {
+    width: 300px;
+    height: 50px;
+    background-color: #ffffff;
+    float: right;
+    clear: right;
+    margin-right: 150px;
+    margin-bottom: 0;
+    border: 1px solid rgb(222, 215, 215);
+}
+.test {
+    width: 300px;
+    height: 40px;
+    background-color:  #f5f5f5;
+    float: right;
+    clear: right;
+    margin-right: 150px;
+}
+
+.photo{
+    width: 300px;
+    height: 40px;
+    background-color:#f5f5f5 ;
+    float: right;
+    clear: right;
+    margin-right: 150px; 
+}
+
+.mob img {
+    margin-top: 30px;
+    margin-left: 18rem;
+}
+
+.first h2 {
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+input[type=text]{
+    margin-bottom: 5px;
+    padding:3px 20px
+}
+
+input[type=password] {
+    text-align: left;
+    margin-bottom: 10px;
+    padding:3px 20px;     
+}
+
+
+input[type=text]:disabled {
+    background-color: rgb(164, 208, 253);
+    margin-bottom: 30px;
+}
+
+.first a {
+    text-decoration: none;
+    font-size: 15px;
+}
+.second p{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.second p a {
+    text-decoration: none;   
+}
+
+.test {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.test p{
+    
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+
+.first img {
+    float: left;
+}
+
+.footer{
+    padding-top: 60px;
+    word-spacing: 10px;
+}
+
+.footer p{
+    padding-top: 15px;
+    font-size: 10px;
+    padding-left: 25%;
+    /* position: relative; */
+}
+
+.third {
+    width: 300px;
+    height: 600px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
